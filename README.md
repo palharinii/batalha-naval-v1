@@ -4,7 +4,7 @@ Jogo de **Batalha Naval** via CLI, feito em **Java**, onde você enfrenta a IA e
 
 ## Sobre o projeto
 
-O jogo roda inteiramente no console. As frotas de ambos os lados são posicionadas aleatoriamente no início da partida, e os jogadores se alternam atirando em coordenadas do tabuleiro inimigo até que uma das frotas seja completamente destruída.
+O jogo roda inteiramente no console. As frotas de ambos os lados são posicionadas aleatoriamente no início da partida, e os jogadores se alternam atirando em coordenadas do tabuleiro inimigo até que uma das frotas seja destruída.
 
 O projeto foi estruturado com orientação a objetos, separando as responsabilidades em classes e usando recursos modernos do Java, como `record`, `enum` e `switch` expressions.
 
