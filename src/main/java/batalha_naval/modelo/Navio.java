@@ -1,4 +1,4 @@
-package batalha_naval;
+package batalha_naval.modelo;
 
 public final class Navio {
     private final String nome;

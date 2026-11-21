@@ -1,5 +1,13 @@
 package batalha_naval;
 
+import batalha_naval.jogador.Humano;
+import batalha_naval.jogador.Jogador;
+import batalha_naval.jogador.Maquina;
+import batalha_naval.modelo.Coordenadas;
+import batalha_naval.modelo.Navio;
+import batalha_naval.modelo.Resultado;
+import batalha_naval.modelo.Tabuleiro;
+
 import java.util.Random;
 
 public class Main {

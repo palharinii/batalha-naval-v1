@@ -1,4 +1,7 @@
-package batalha_naval;
+package batalha_naval.jogador;
+
+import batalha_naval.modelo.Coordenadas;
+import batalha_naval.modelo.Tabuleiro;
 
 import java.util.Random;
 

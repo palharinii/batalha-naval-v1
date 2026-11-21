@@ -1,4 +1,4 @@
-package batalha_naval;
+package batalha_naval.modelo;
 
 import java.util.ArrayList;
 import java.util.List;
