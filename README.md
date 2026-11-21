@@ -1,6 +1,6 @@
 # Batalha Naval
 
-Jogo de **Batalha Naval** via CLI, feito em **Java**, onde você enfrenta a IA em um tabuleiro 10x10. Vence quem afundar primeiro toda a frota do adversário.
+Jogo de Batalha Naval via CLI, feito em Java, onde você enfrenta a IA em um tabuleiro 10x10. Vence quem afundar primeiro toda a frota do adversário.
 
 ## Sobre o projeto
 
