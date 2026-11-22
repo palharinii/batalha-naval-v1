@@ -1,10 +1,8 @@
 # Batalha Naval
 
-Jogo de Batalha Naval via CLI, feito em Java, onde você enfrenta a IA em um tabuleiro 10x10. Vence quem afundar primeiro toda a frota do adversário.
-
 ## Sobre o projeto
 
-O jogo roda inteiramente no console. As frotas de ambos os lados são posicionadas aleatoriamente no início da partida, e os jogadores se alternam atirando em coordenadas do tabuleiro inimigo até que uma das frotas seja destruída.
+O jogo foi feito em Java 21 e roda inteiramente no console. As frotas de ambos os lados são posicionadas aleatoriamente no início da partida, e os jogadores se alternam atirando em coordenadas do tabuleiro inimigo até que uma das frotas seja destruída.
 
 O projeto foi estruturado com orientação a objetos, separando as responsabilidades em classes e usando recursos modernos do Java, como `record`, `enum` e `switch` expressions.
 
@@ -12,7 +10,7 @@ O projeto foi estruturado com orientação a objetos, separando as responsabilid
 
 - Tabuleiro 10x10 com colunas `A–J` e linhas `1–10`
 - Posicionamento aleatório da frota (horizontal ou vertical, sem sobreposição)
-- Modo **Jogador vs IA**
+- Modo Jogador vs IA
 - Validação de entrada: coordenadas inválidas são recusadas e pedidas novamente
 - Tiros repetidos não consomem o turno: o jogo pede outra coordenada
 - Feedback a cada jogada: água, acerto ou navio afundado
@@ -46,9 +44,9 @@ Ou abra o projeto em uma IDE (IntelliJ, Eclipse, VS Code) e execute a classe `Ma
 
 | Símbolo | Significado                |
 |:-------:|----------------------------|
-|   `~`   | Água ainda não atacada     |
+|   `~`   | Repesenta o mar do jogo    |
 |   `O`   | Tiro na água (errou)       |
-|   `X`   | Tiro que acertou um navio  |
+|   `X`   | Acertou um navio           |
 
 ### Frota
 
