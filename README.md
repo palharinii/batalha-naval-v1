@@ -1,8 +1,9 @@
 # Batalha Naval
+O projeto foi feito utilizando Java, onde o objetivo é enfrentar a IA em um tabuleiro 10x10. Vence quem afundar primeiro toda a frota do adversário.
 
 ## Sobre o projeto
 
-O jogo foi feito em Java e roda inteiramente no console. As frotas de ambos os lados são posicionadas aleatoriamente no início da partida, e os jogadores se alternam atirando em coordenadas do tabuleiro inimigo até que uma das frotas seja destruída.
+O jogo roda inteiramente no console. As frotas de ambos os lados são posicionadas aleatoriamente no início da partida, e os jogadores se alternam atirando em coordenadas do tabuleiro inimigo até que uma das frotas seja destruída.
 
 O projeto foi estruturado com orientação a objetos, separando as responsabilidades em classes e usando recursos modernos do Java, como `record`, `enum` e `switch` expressions.
 
