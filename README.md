@@ -2,7 +2,7 @@
 
 ## Sobre o projeto
 
-O jogo foi feito em Java 21 e roda inteiramente no console. As frotas de ambos os lados são posicionadas aleatoriamente no início da partida, e os jogadores se alternam atirando em coordenadas do tabuleiro inimigo até que uma das frotas seja destruída.
+O jogo foi feito em Java e roda inteiramente no console. As frotas de ambos os lados são posicionadas aleatoriamente no início da partida, e os jogadores se alternam atirando em coordenadas do tabuleiro inimigo até que uma das frotas seja destruída.
 
 O projeto foi estruturado com orientação a objetos, separando as responsabilidades em classes e usando recursos modernos do Java, como `record`, `enum` e `switch` expressions.
 
@@ -30,8 +30,6 @@ Os arquivos pertencem ao pacote `batalha_naval`, então devem ficar dentro de um
 javac batalha_naval/*.java
 java batalha_naval.Main
 ```
-
-Ou abra o projeto em uma IDE (IntelliJ, Eclipse, VS Code) e execute a classe `Main`.
 
 ## 🎮 Como jogar
 
